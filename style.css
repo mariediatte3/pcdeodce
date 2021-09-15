@@ -21,10 +21,24 @@
             padding-top: 6px;
 			margin-left: 7px;
 		}
+        .img{
+            display: block;
+            width: 100%;
+            height: 500px;
+        }
 		.new{
 			text-align: center;
 			line-height: 2;
             padding-top: 30px;
+        }
+        #a{
+            display: block;
+        }
+        #b{
+            display: block;
+        }
+        #c{
+            display: block;
         }
 
         .new a{
@@ -56,6 +70,7 @@
 			width: 100%;
 			height: 70px;
 			border: 1px solid hotpink;
+            background-color: rgb(247, 17, 124);
 		}
 
         .text{
@@ -117,21 +132,26 @@
             text-align: center;
             margin-top: 50px;
         }
-        
+        .main{
+            height: 700px;
+        }
+        .index{
+            height: 1500px;
+        }
         .apropos{
             padding-top: 10vh;
             
         }
         .paragraphe p{
             font-family: serif;
-            margin-left: 200px;
-            margin-right: 200px;
-            text-align: center;
+            text-align: left;
             margin-top: 50px;
         }
         .paragraphe h1 {
             text-align:center;
         }
+        paragraphe{
+            height: 700px;}
 
         .contact h1{
             text-align: center;
